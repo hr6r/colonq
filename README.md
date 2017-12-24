@@ -1,1 +1,1 @@
-source code of [colonq.io](//colonq.io)
+source code of [colonq.io](http://colonq.io)
